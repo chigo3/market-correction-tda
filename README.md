@@ -1,6 +1,4 @@
-# market-correction-tda
-
-# Stocks Correction Detection with TDA
+# Market Correction Detection with TDA
 
 This project was created during a hackathon to detect “bubble corrections” in stocks (specifically Apple & Nvidia) using:
 - **Financial Metrics** (PE, PB, volatility, etc.)
